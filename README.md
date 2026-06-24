@@ -1,17 +1,17 @@
 Bike Buyers Sales Dashboard
 
---Overview
+--Overview:
 
 This project analyzes a Bike Buyers dataset and presents key insights through an interactive dashboard. The dashboard helps identify customer demographics, purchasing behavior, and factors influencing bike purchases.
 
---Objectives
+--Objectives:
 
 * Analyze customer characteristics and purchasing patterns.
 * Identify factors that influence bike buying decisions.
 * Create an interactive dashboard for easy data exploration.
 * Present business insights using visualizations.
 
---Dataset
+--Dataset:
 
 **Source:** Kaggle Bike Buyers Dataset
 
@@ -27,7 +27,7 @@ The dataset contains customer information such as:
 * Commute Distance
 * Bike Purchase Status
 
---Visualizations
+--Visualizations:
 
 * Bike Purchases by Gender
 * Bike Purchases by Age Group
@@ -36,7 +36,7 @@ The dataset contains customer information such as:
 * Bike Purchases by Region
 * Commute Distance Analysis
 
---Interactive Filters
+--Interactive Filters:
 
 * Gender
 * Marital Status
@@ -44,7 +44,7 @@ The dataset contains customer information such as:
 * Region
 * Occupation
 
---Tools Used
+--Tools Used:
 
 * Microsoft Excel
 
@@ -54,7 +54,7 @@ The dataset contains customer information such as:
   * Dashboard Design
   * Data Cleaning
 
---Project Workflow
+--Project Workflow:
 
 1. Data Collection
 2. Data Cleaning and Preparation
