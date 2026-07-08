@@ -69,4 +69,4 @@ The dashboard includes slicers that allow users to filter data by:
 * Compare bike purchases based on income, occupation, and age.
 * Analyze regional buying patterns.
 * Explore how commute distance influences purchasing decisions.
-
+* Interact with the dashboard using dynamic filters for deeper analysis.
