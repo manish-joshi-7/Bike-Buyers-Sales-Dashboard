@@ -4,6 +4,11 @@
 
 The **Bike Buyers Sales Dashboard** is an interactive Microsoft Excel project that analyzes customer demographics and purchasing behavior using the Bike Buyers dataset. The dashboard provides clear visual insights into the factors that influence bike purchase decisions and allows users to explore the data through interactive filters.
 
+## Dashboard Preview
+
+![Dashboard](Project_Dashboard.png)
+
+
 ## Objectives
 
 * Analyze customer demographics and purchasing patterns.
